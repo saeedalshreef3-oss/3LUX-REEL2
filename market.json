@@ -1,115 +1,18 @@
 {
-  "companies": [
-    {
-      "lan": "Skåne",
-      "company": "Qleano",
-      "service": "Flyttstäd",
-      "price": "30 kr/m²",
-      "includes": "تنظيف + نوافذ",
-      "note": "حملة"
-    },
-    {
-      "lan": "Skåne",
-      "company": "Flytta.se",
-      "service": "Flyttstäd",
-      "price": "25–40 kr/m²",
-      "includes": "تنظيف + سفر",
-      "note": "حسب مساحة السكن"
-    },
-    {
-      "lan": "Skåne",
-      "company": "SEM Städ",
-      "service": "Flyttstäd",
-      "price": "30–35 kr/m²",
-      "includes": "تنظيف كامل",
-      "note": "35 kr/m² تحت 100 م²"
-    },
-    {
-      "lan": "Kronoberg",
-      "company": "Homemaid",
-      "service": "Flyttstäd",
-      "price": "31 kr/m²",
-      "includes": "تنظيف",
-      "note": "سعر قياسي"
-    },
-    {
-      "lan": "Kronoberg",
-      "company": "Call4Care Växjö",
-      "service": "Flyttstäd",
-      "price": "غير معلن",
-      "includes": "—",
-      "note": "يُطلب عرض سعر"
-    },
-    {
-      "lan": "Blekinge",
-      "company": "Cleanwork",
-      "service": "Flyttstäd",
-      "price": "33 kr/m²",
-      "includes": "تنظيف + مواد",
-      "note": "يشمل المواد"
-    },
-    {
-      "lan": "Blekinge",
-      "company": "Flyttstädning Karlskrona",
-      "service": "Flyttstäd",
-      "price": "غير معلن",
-      "includes": "—",
-      "note": "حسب الطلب"
-    },
-    {
-      "lan": "Blekinge",
-      "company": "Flyttstädning Ronneby",
-      "service": "Flyttstäd",
-      "price": "غير معلن",
-      "includes": "—",
-      "note": "حسب الطلب"
-    },
-    {
-      "lan": "Skåne",
-      "company": "Städhjälpen",
-      "service": "Flyttstäd",
-      "price": "37–52 kr/m²",
-      "includes": "تنظيف كامل",
-      "note": "متدرج حسب المساحة"
-    },
-    {
-      "lan": "Skåne",
-      "company": "Flyttstädning Höör",
-      "service": "Flyttstäd",
-      "price": "38–43 kr/m²",
-      "includes": "تنظيف كامل",
-      "note": "حسب الجدول المعلن"
-    },
-    {
-      "lan": "Skåne",
-      "company": "Flyttstädning Lomma",
-      "service": "Flyttstäd",
-      "price": "30–50 kr/m²",
-      "includes": "تنظيف كامل",
-      "note": "حملة خصم 35% من Stadcompaniet"
-    },
-    {
-      "lan": "Skåne",
-      "company": "Flyttförmedlingen",
-      "service": "Flyttstäd",
-      "price": "غير معلن",
-      "includes": "—",
-      "note": "حسب العرض"
-    }
+  "Skåne": [
+    { "company": "Qleano", "service": "Flyttstäd", "price": 23, "includes": "Material, resa", "note": "kampanj 24h" },
+    { "company": "Flytta.se", "service": "Flyttstäd", "price": 25, "includes": "Material", "note": "" },
+    { "company": "SEM Städ", "service": "Flyttstäd", "price": 27, "includes": "Material, resa", "note": "" },
+    { "company": "Cleanwork", "service": "Flyttstäd", "price": 28, "includes": "Material", "note": "" },
+    { "company": "Homemaid", "service": "Flyttstäd", "price": 30, "includes": "Material, resa", "note": "standard" }
   ],
-  "history": [
-    { "date": "2025-09-01", "Skåne": 23, "Kronoberg": 31, "Blekinge": 33 },
-    { "date": "2025-09-02", "Skåne": 24, "Kronoberg": 31, "Blekinge": 32 },
-    { "date": "2025-09-03", "Skåne": 22, "Kronoberg": 30, "Blekinge": 33 },
-    { "date": "2025-09-04", "Skåne": 21, "Kronoberg": 31, "Blekinge": 34 },
-    { "date": "2025-09-05", "Skåne": 22, "Kronoberg": 30, "Blekinge": 33 },
-    { "date": "2025-09-06", "Skåne": 23, "Kronoberg": 31, "Blekinge": 33 },
-    { "date": "2025-09-07", "Skåne": 22, "Kronoberg": 32, "Blekinge": 34 },
-    { "date": "2025-09-08", "Skåne": 23, "Kronoberg": 31, "Blekinge": 33 },
-    { "date": "2025-09-09", "Skåne": 21, "Kronoberg": 31, "Blekinge": 34 },
-    { "date": "2025-09-10", "Skåne": 22, "Kronoberg": 32, "Blekinge": 33 },
-    { "date": "2025-09-11", "Skåne": 23, "Kronoberg": 31, "Blekinge": 33 },
-    { "date": "2025-09-12", "Skåne": 22, "Kronoberg": 31, "Blekinge": 34 },
-    { "date": "2025-09-13", "Skåne": 23, "Kronoberg": 31, "Blekinge": 33 }
+  "Kronoberg": [
+    { "company": "Växjö Städ", "service": "Flyttstäd", "price": 31, "includes": "Material, resa", "note": "" },
+    { "company": "Call4Care", "service": "Flyttstäd", "price": 32, "includes": "Material, resa", "note": "kampanj ny" }
+  ],
+  "Blekinge": [
+    { "company": "AMK Service", "service": "Flyttstäd", "price": 33, "includes": "Material, resa, fönsterputs", "note": "ny kampanj" },
+    { "company": "Flyttstädning Karlskrona", "service": "Flyttstäd", "price": 29, "includes": "Material", "note": "" },
+    { "company": "Flyttstädning Ronneby", "service": "Flyttstäd", "price": 28, "includes": "Material, resa", "note": "" }
   ]
 }
