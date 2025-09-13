@@ -1,18 +1,34 @@
 {
   "Skåne": [
-    { "company": "Qleano", "service": "Flyttstäd", "price": 23, "includes": "Material, resa", "note": "kampanj 24h" },
-    { "company": "Flytta.se", "service": "Flyttstäd", "price": 25, "includes": "Material", "note": "" },
-    { "company": "SEM Städ", "service": "Flyttstäd", "price": 27, "includes": "Material, resa", "note": "" },
-    { "company": "Cleanwork", "service": "Flyttstäd", "price": 28, "includes": "Material", "note": "" },
-    { "company": "Homemaid", "service": "Flyttstäd", "price": 30, "includes": "Material, resa", "note": "standard" }
+    { "company": "Qleano", "service": "Flyttstäd", "price": 30, "includes": "تنظيف + مواد", "note": "صفقة" },
+    { "company": "Flytta.se", "service": "Flyttstäd", "price": 25, "includes": "تنظيف + سفر", "note": "حسب مساحة السكن" },
+    { "company": "Städhjälpen", "service": "Flyttstäd", "price": 39, "includes": "شامل كل شي", "note": "متوسط" },
+    { "company": "Flyttstädning Höör", "service": "Flyttstäd", "price": 38, "includes": "شامل كل شي", "note": "حسب حجم السكن" },
+    { "company": "Flyttstädning Lomma", "service": "Flyttstäd", "price": 45, "includes": "شامل كل شي", "note": "خصم %35 Stadcompaniet" },
+    { "company": "Flyttförmedlingen", "service": "Flyttstäd", "price": 40, "includes": "شامل", "note": "حسب العرض" }
   ],
   "Kronoberg": [
-    { "company": "Växjö Städ", "service": "Flyttstäd", "price": 31, "includes": "Material, resa", "note": "" },
-    { "company": "Call4Care", "service": "Flyttstäd", "price": 32, "includes": "Material, resa", "note": "kampanj ny" }
+    { "company": "Homemaid", "service": "Flyttstäd", "price": 31, "includes": "سفر كامل", "note": "" },
+    { "company": "Call4Care Växjö", "service": "Flyttstäd", "price": 32, "includes": "سفر + مواد", "note": "طلب عرض سعر" }
   ],
   "Blekinge": [
-    { "company": "AMK Service", "service": "Flyttstäd", "price": 33, "includes": "Material, resa, fönsterputs", "note": "ny kampanj" },
-    { "company": "Flyttstädning Karlskrona", "service": "Flyttstäd", "price": 29, "includes": "Material", "note": "" },
-    { "company": "Flyttstädning Ronneby", "service": "Flyttstäd", "price": 28, "includes": "Material, resa", "note": "" }
+    { "company": "Cleanwork", "service": "Flyttstäd", "price": 33, "includes": "تنظيف + مواد", "note": "شامل الفواتير" },
+    { "company": "Flyttstädning Karlskrona", "service": "Flyttstäd", "price": 29, "includes": "شامل", "note": "حسب الطلب" },
+    { "company": "Flyttstädning Ronneby", "service": "Flyttstäd", "price": 28, "includes": "شامل", "note": "" }
+  ],
+  "history": [
+    { "date": "2025-09-01", "Skåne": 23, "Kronoberg": 31, "Blekinge": 33 },
+    { "date": "2025-09-02", "Skåne": 23, "Kronoberg": 31, "Blekinge": 32 },
+    { "date": "2025-09-03", "Skåne": 22, "Kronoberg": 30, "Blekinge": 33 },
+    { "date": "2025-09-04", "Skåne": 22, "Kronoberg": 31, "Blekinge": 33 },
+    { "date": "2025-09-05", "Skåne": 22, "Kronoberg": 30, "Blekinge": 34 },
+    { "date": "2025-09-06", "Skåne": 22, "Kronoberg": 31, "Blekinge": 34 },
+    { "date": "2025-09-07", "Skåne": 21, "Kronoberg": 31, "Blekinge": 34 },
+    { "date": "2025-09-08", "Skåne": 21, "Kronoberg": 31, "Blekinge": 33 },
+    { "date": "2025-09-09", "Skåne": 21, "Kronoberg": 31, "Blekinge": 33 },
+    { "date": "2025-09-10", "Skåne": 22, "Kronoberg": 31, "Blekinge": 33 },
+    { "date": "2025-09-11", "Skåne": 22, "Kronoberg": 31, "Blekinge": 33 },
+    { "date": "2025-09-12", "Skåne": 23, "Kronoberg": 31, "Blekinge": 33 },
+    { "date": "2025-09-13", "Skåne": 23, "Kronoberg": 31, "Blekinge": 33 }
   ]
 }
