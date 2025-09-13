@@ -2,7 +2,8 @@
   "Skåne": [
     { "company": "Qleano", "service": "Flyttstäd", "price": 30, "includes": "تنظيف + مواد", "note": "صفقة" },
     { "company": "Flytta.se", "service": "Flyttstäd", "price": 25, "includes": "تنظيف + سفر", "note": "حسب مساحة السكن" },
-    { "company": "Städhjälpen", "service": "Flyttstäd", "price": 39, "includes": "شامل كل شي", "note": "متوسط" },
+    { "company": "SEM Städ", "service": "Flyttstäd", "price": 30, "includes": "تنظيف + مواد", "note": "تحت 35 م² = 100kr" },
+    { "company": "Städhjälpen", "service": "Flyttstäd", "price": 39, "includes": "شامل كل شي", "note": "متوسط حسب المساحة" },
     { "company": "Flyttstädning Höör", "service": "Flyttstäd", "price": 38, "includes": "شامل كل شي", "note": "حسب حجم السكن" },
     { "company": "Flyttstädning Lomma", "service": "Flyttstäd", "price": 45, "includes": "شامل كل شي", "note": "خصم %35 Stadcompaniet" },
     { "company": "Flyttförmedlingen", "service": "Flyttstäd", "price": 40, "includes": "شامل", "note": "حسب العرض" }
