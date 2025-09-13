@@ -35,17 +35,14 @@
   ],
   "history": [
     { "date": "2025-09-01", "Skåne": 23, "Kronoberg": 31, "Blekinge": 33 },
-    { "date": "2025-09-02", "Skåne": 23, "Kronoberg": 31, "Blekinge": 32 },
-    { "date": "2025-09-03", "Skåne": 22, "Kronoberg": 30, "Blekinge": 33 },
-    { "date": "2025-09-04", "Skåne": 22, "Kronoberg": 31, "Blekinge": 33 },
-    { "date": "2025-09-05", "Skåne": 22, "Kronoberg": 30, "Blekinge": 34 },
-    { "date": "2025-09-06", "Skåne": 22, "Kronoberg": 31, "Blekinge": 34 },
-    { "date": "2025-09-07", "Skåne": 21, "Kronoberg": 31, "Blekinge": 34 },
-    { "date": "2025-09-08", "Skåne": 21, "Kronoberg": 31, "Blekinge": 33 },
-    { "date": "2025-09-09", "Skåne": 21, "Kronoberg": 31, "Blekinge": 33 },
-    { "date": "2025-09-10", "Skåne": 22, "Kronoberg": 31, "Blekinge": 33 },
-    { "date": "2025-09-11", "Skåne": 22, "Kronoberg": 31, "Blekinge": 33 },
-    { "date": "2025-09-12", "Skåne": 23, "Kronoberg": 31, "Blekinge": 33 },
-    { "date": "2025-09-13", "Skåne": 23, "Kronoberg": 31, "Blekinge": 33 }
+    { "date": "2025-09-02", "Skåne": 22, "Kronoberg": 30, "Blekinge": 33 },
+    { "date": "2025-09-03", "Skåne": 22, "Kronoberg": 31, "Blekinge": 33 },
+    { "date": "2025-09-04", "Skåne": 22, "Kronoberg": 30, "Blekinge": 34 },
+    { "date": "2025-09-05", "Skåne": 21, "Kronoberg": 31, "Blekinge": 34 },
+    { "date": "2025-09-06", "Skåne": 21, "Kronoberg": 31, "Blekinge": 33 },
+    { "date": "2025-09-07", "Skåne": 21, "Kronoberg": 31, "Blekinge": 33 },
+    { "date": "2025-09-08", "Skåne": 22, "Kronoberg": 31, "Blekinge": 33 },
+    { "date": "2025-09-09", "Skåne": 22, "Kronoberg": 31, "Blekinge": 33 },
+    { "date": "2025-09-10", "Skåne": 23, "Kronoberg": 31, "Blekinge": 33 }
   ]
 }
