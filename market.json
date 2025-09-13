@@ -1,21 +1,37 @@
 {
-  "Skåne": [
-    { "company": "Qleano", "service": "Flyttstäd", "price": 30, "includes": "تنظيف + مواد", "note": "صفقة" },
-    { "company": "Flytta.se", "service": "Flyttstäd", "price": 25, "includes": "تنظيف + سفر", "note": "حسب مساحة السكن" },
-    { "company": "SEM Städ", "service": "Flyttstäd", "price": 30, "includes": "تنظيف + مواد", "note": "تحت 35 م² = 100kr" },
-    { "company": "Städhjälpen", "service": "Flyttstäd", "price": 39, "includes": "شامل كل شي", "note": "متوسط حسب المساحة" },
-    { "company": "Flyttstädning Höör", "service": "Flyttstäd", "price": 38, "includes": "شامل كل شي", "note": "حسب حجم السكن" },
-    { "company": "Flyttstädning Lomma", "service": "Flyttstäd", "price": 45, "includes": "شامل كل شي", "note": "خصم %35 Stadcompaniet" },
-    { "company": "Flyttförmedlingen", "service": "Flyttstäd", "price": 40, "includes": "شامل", "note": "حسب العرض" }
-  ],
-  "Kronoberg": [
-    { "company": "Homemaid", "service": "Flyttstäd", "price": 31, "includes": "سفر كامل", "note": "" },
-    { "company": "Call4Care Växjö", "service": "Flyttstäd", "price": 32, "includes": "سفر + مواد", "note": "طلب عرض سعر" }
-  ],
-  "Blekinge": [
-    { "company": "Cleanwork", "service": "Flyttstäd", "price": 33, "includes": "تنظيف + مواد", "note": "شامل الفواتير" },
-    { "company": "Flyttstädning Karlskrona", "service": "Flyttstäd", "price": 29, "includes": "شامل", "note": "حسب الطلب" },
-    { "company": "Flyttstädning Ronneby", "service": "Flyttstäd", "price": 28, "includes": "شامل", "note": "" }
+  "companies": [
+    {
+      "lan": "Skåne",
+      "company": "Qleano",
+      "service": "Flyttstäd",
+      "price": "30 kr/m²",
+      "includes": "تنظيف + مواد",
+      "note": "صفقة"
+    },
+    {
+      "lan": "Skåne",
+      "company": "Flytta.se",
+      "service": "Flyttstäd",
+      "price": "25-40 kr/m²",
+      "includes": "تنظيف + سفر",
+      "note": "حسب مساحة السكن"
+    },
+    {
+      "lan": "Kronoberg",
+      "company": "Homemaid",
+      "service": "Flyttstäd",
+      "price": "31 kr/m²",
+      "includes": "سفر كامل",
+      "note": ""
+    },
+    {
+      "lan": "Blekinge",
+      "company": "Cleanwork",
+      "service": "Flyttstäd",
+      "price": "33 kr/m²",
+      "includes": "تنظيف + مواد",
+      "note": "شامل الفواتير"
+    }
   ],
   "history": [
     { "date": "2025-09-01", "Skåne": 23, "Kronoberg": 31, "Blekinge": 33 },
